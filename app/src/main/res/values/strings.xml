@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="business_card_label">Cartão de Visita</string>
+    <string name="new_card_label">Novo Cartão</string>
+    <string name="name">Nome</string>
+    <string name="phone">Telefone</string>
+    <string name="email">Email</string>
+    <string name="company">Empresa</string>
+    <string name="color">Cor</string>
+    <string name="confirm">Confirmar</string>
+    <string name="load_image">Carregue a imagem</string>
+    <string name="select_image">Selecione uma imagem</string>
+    <string name="text_color">Cor do texto</string>
+    <string name="error">Erro</string>
+    <string name="error_message">Não foi possível salvar a imagem: </string>
+    <string name="share">Compartilhar</string>
+    <string name="card_message">Olá, estou compartilhando com você o meu cartão de visitas. Aguardo o seu contato!</string>
+</resources>
